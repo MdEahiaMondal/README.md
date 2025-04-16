@@ -2,8 +2,8 @@
 
 **Full-Stack Developer | Laravel & Vue.js Specialist | API & DevOps Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eahiamondal)
-[![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:eahiamondal@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eahiya-khan)
+[![Email](https://img.shields.io/badge/-Email%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:mdeahiamondal@gmail.com)
 [![Years of Experience](https://img.shields.io/badge/5%2B%20Years-Experience-brightgreen?style=flat)]()
 
 ## 🛠 Technical Toolkit
