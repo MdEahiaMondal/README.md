@@ -28,7 +28,7 @@
 
 ## 💼 Professional Highlights
 
-- ✅ **5+ years** of hands-on development experience
+- ✅ **4+ years** of hands-on development experience
 - 🚀 Built **20+ REST APIs** with Laravel for web/mobile apps
 - 💳 Implemented **payment gateways** (Stripe, PayPal, Bkash, Amarpay, Paytabs, myfatoorah, HyperPay)
 - 🛠 **Full project lifecycle** experience from concept to deployment
