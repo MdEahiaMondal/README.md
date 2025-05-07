@@ -56,5 +56,5 @@ I'm always open to:
 - **Mentoring** junior developers
 
 📫 How to reach me:
-- Email: [eahiamondal@example.com](mailto:mdeahiamondal@gmail.com)
+- Email: [mdeahiamondal@example.com](mailto:mdeahiamondal@gmail.com)
 - LinkedIn: [Md. Eahia Mondal](https://www.linkedin.com/in/eahiya-khan/)
